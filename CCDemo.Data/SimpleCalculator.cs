@@ -22,6 +22,9 @@
 
         public int DivideByTwo(int number)
         {
+            // Hier 2 tests, voor schrijven. 
+            // één die valideert dat de exception wordt gegooid bij een input van 0.
+            // één die valideert dat de input deelt door 2.
             if (number == 0)
                 throw new ArgumentException("Kan niet delen door nul");
 
