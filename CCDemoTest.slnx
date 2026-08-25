@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/TestSuite/" />
+  <Folder Name="/TestSuite/Unit/">
+    <Project Path="CCDemo.Data.Tests.Unit/CCDemo.Data.Tests.Unit.csproj" />
+  </Folder>
+  <Project Path="CCDemo.Data/CCDemo.Data.csproj" />
+</Solution>
